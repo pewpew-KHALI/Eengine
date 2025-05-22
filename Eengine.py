@@ -6,4 +6,5 @@ while (name =="" or password==""):
     name=input("enter your username:")
     password=input("enter your password:")
 print(f"hello (name)")
+age=input("enter your age:")
 
